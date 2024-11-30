@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 100px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+*{
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-shadow: 0 0 3px black;
+}
+h2,h3,h4,h5,h6{
+    font-size: 20px;
+    color: black;
+    text-shadow: 1px 1px 3px crimson;
+
+}
+h1{
+    color: black;
+    text-shadow: 3px 2px 6 px crimson;
+}
